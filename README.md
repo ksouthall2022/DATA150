@@ -1,3 +1,5 @@
+# DATA-150
+
 Hi everyone! My name is Kaori Southall. My name is pronounced kah-oh-rhee south-ohl.
 
 I transferred to William & Mary from Tidewater Community College in the fall of 2020. I am a junior studying psychological science with a minor in religious studies. I have been very interested in the intersection between psychology and religious studies and becoming a psychotherapist/clinical psychologist and intent to practice in both the United States and Japan in order to serve clients with mental, emotional, and behavioral problems through more unique and creative ways and provide treatment plans.
