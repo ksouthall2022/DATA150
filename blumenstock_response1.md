@@ -14,9 +14,3 @@ Besides, the use of big-data shall go along way in the monitoring of sustainable
 References
 Blumenstock, J. (2018). Don’t forget people in the use of big data for development. Retrieved August 22, 2020, from https://www.nature.com/articles/d41586-018-06215-5
 Hua, J., & Shaw, R. (2020). Corona virus (Covid-19)“infodemic” and emerging issues through a data lens: The case of china. International journal of environmental research and public health, 17(7).
-
-
-
-
-
-
