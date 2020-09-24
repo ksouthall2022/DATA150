@@ -37,8 +37,13 @@ The inclusion and empowerment of women in various economic and social activities
 
 References
 Agarwal, B., & Panda, P. (2007). Toward freedom from domestic violence: The neglected obvious. Journal of human development, 359--388.
+
 de Hoop, J., Premand, P., Rosati, F., & Vakis, R. (2018). Women’s economic capacity and children’s human capital accumulation. Journal of Population Economics, 453--481.
+
 Geddes, R., Lueck, D., & Tennyson, S. (2012). Human capital accumulation and the expansion of women’s economic rights. The Journal of Law and Economics, 839--867.
+
 Ogawa, M., Koguchi, E., & Shibata, M. (2020). Support and Legal Systems for Mother and Child Victims of Domestic Violence in Japan and Singapore. Journal of Asian Women's Studies, 1--13.
+
 Reggio, I. (2011). The influence of the mother's power on her child's labor in Mexico. Journal of development economics, 95--105.
+
 Sen, A. (2001). Development as freedom. Oxford Paperbacks.
