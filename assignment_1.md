@@ -1,8 +1,11 @@
 Women's Economic Capacity and the Effects on Children's Development
 
 Kaori Southall
+
 Data 150
+
 Professor Tyler Frazier
+
 Word Count: 2,583 
 
 
