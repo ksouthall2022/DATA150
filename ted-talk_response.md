@@ -16,6 +16,7 @@ To eliminate the existing misconceptions and bridge the gap on information discr
 
 
 References
+
 Ted. (2006, February 26). The best stats you have ever seen. Retrieved from TED: https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en#t-1048138
 UN. (2019, July 2). Big Data for Sustainable Development . Retrieved from United Nations: https://www.un.org/en/sections/issues-depth/big-data-sustainable-development/index.html
 
