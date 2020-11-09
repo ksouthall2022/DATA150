@@ -10,6 +10,8 @@ I am very passionate about many things. I really want to join a choir and explor
 
 ## Index
 
+[https://github.com/ksouthall2022/DATA150.git](url)
+
 - 8/25 Blumenstock Response 
 - 8/27 Hans Rosling TED Talk
 - 9/3 Rosling/Sen Q&A 
