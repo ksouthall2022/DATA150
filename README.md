@@ -10,12 +10,11 @@ I am very passionate about many things. I really want to join a choir and explor
 
 ## Index
 
-
 - 8/25 Blumenstock Response 
 - 8/27 Hans Rosling TED Talk
 - 9/3 Rosling/Sen Q&A 
 - 9/17 Assignment 1: Annotated Bibliography
-- 9/29 The End of Theory? 
+- 9/29 In-class Essay (The End of Theory?) 
 - 10/5 Barder 
 - 10/19 Assignment 2 
 - 10/22 Type of Inquiry 
