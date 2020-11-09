@@ -16,7 +16,7 @@ I am very passionate about many things. I really want to join a choir and explor
 
 ## Index
 
-- 8/25 Blumenstock Response 
+- 8/25 Blumenstock Response https://github.com/ksouthall2022/DATA150/blob/master/blumenstock_response1.md
 - 8/27 Hans Rosling TED Talk
 - 9/3 Rosling/Sen Q&A 
 - 9/17 Assignment 1: Annotated Bibliography
