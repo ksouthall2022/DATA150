@@ -10,13 +10,13 @@ I am very passionate about many things. I really want to join a choir and explor
 
 ## Index
 
-- 8/25 Blumenstock Response [https://github.com/ksouthall2022/DATA150/blob/README.md/blumenstock_response1.md](url)
-- 8/27 Hans Rosling TED Talk [https://github.com/ksouthall2022/DATA150/blob/README.md/ted-talk_response.md](url)
-- 9/3 Rosling/Sen Q&A [https://github.com/ksouthall2022/DATA150/blob/README.md/qa.md](url)
-- 9/17 Assignment 1: Annotated Bibliography [https://github.com/ksouthall2022/DATA150/blob/README.md/dsi.md](url)
-- 9/29 The End of Theory? [https://github.com/ksouthall2022/DATA150/blob/README.md/anderson-vs-kitchin.md](url)
-- 10/5 Barder [https://github.com/ksouthall2022/DATA150/blob/README.md/barder.md](url)
-- 10/19 Assignment 2 [https://github.com/ksouthall2022/DATA150/blob/README.md/assignment_2_revised.md](url)
-- 10/22 Type of Inquiry [https://github.com/ksouthall2022/DATA150/blob/README.md/type-of-inquiry.md](url)
-- 11/5 In-class Essay [https://github.com/ksouthall2022/DATA150/blob/README.md/knowledge-creation.md](url) 
-- 11/13 Assignment 3: Data Science Methodology [https://github.com/ksouthall2022/DATA150/blob/README.md/assignment_3.md](url)
+- 8/25 Blumenstock Response 
+- 8/27 Hans Rosling TED Talk
+- 9/3 Rosling/Sen Q&A 
+- 9/17 Assignment 1: Annotated Bibliography
+- 9/29 The End of Theory? 
+- 10/5 Barder 
+- 10/19 Assignment 2 
+- 10/22 Type of Inquiry 
+- 11/5 In-class Essay 
+- 11/13 Assignment 3: Data Science Methodology 
