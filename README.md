@@ -16,13 +16,13 @@ I am very passionate about many things. I really want to join a choir and explor
 
 ## Index
 
-- 8/25 Blumenstock Response https://github.com/ksouthall2022/DATA150/blob/master/blumenstock_response1.md
-- 8/27 Hans Rosling TED Talk https://github.com/ksouthall2022/DATA150/blob/master/ted-talk_response.md
-- 9/3 Rosling/Sen Q&A https://github.com/ksouthall2022/DATA150/blob/master/qa.md
-- 9/17 Assignment 1: Annotated Bibliography https://github.com/ksouthall2022/DATA150/blob/master/assignment_1.md
-- 9/29 In-class Essay (The End of Theory?) https://github.com/ksouthall2022/DATA150/blob/master/anderson-vs-kitchin.md
-- 10/5 Barder https://github.com/ksouthall2022/DATA150/blob/master/barder.md
-- 10/19 Assignment 2 https://github.com/ksouthall2022/DATA150/blob/master/assignment_2.md
-- 10/22 Type of Inquiry https://github.com/ksouthall2022/DATA150/blob/master/type-of-inquiry.md
-- 11/5 In-class Essay https://github.com/ksouthall2022/DATA150/blob/master/knowledge-creation1.md
-- 11/13 Assignment 3: Data Science Methodology https://github.com/ksouthall2022/DATA150/blob/master/assignment_3.md
+- [8/25 Blumenstock Response](https://github.com/ksouthall2022/DATA150/blob/master/blumenstock_response1.md)
+- [8/27 Hans Rosling TED Talk](https://github.com/ksouthall2022/DATA150/blob/master/ted-talk_response.md)
+- [9/3 Rosling/Sen Q&A](https://github.com/ksouthall2022/DATA150/blob/master/qa.md)
+- [9/17 Assignment 1: Annotated Bibliography](https://github.com/ksouthall2022/DATA150/blob/master/assignment_1.md)
+- [9/29 In-class Essay: The End of Theory?](https://github.com/ksouthall2022/DATA150/blob/master/anderson-vs-kitchin.md)
+- [10/5 Barder](https://github.com/ksouthall2022/DATA150/blob/master/barder.md)
+- [10/19 Assignment 2: Literature Review & Critical Analysis](https://github.com/ksouthall2022/DATA150/blob/master/assignment_2.md)
+- [10/22 Type of Inquiry](https://github.com/ksouthall2022/DATA150/blob/master/type-of-inquiry.md)
+- [11/5 In-class Essay](https://github.com/ksouthall2022/DATA150/blob/master/knowledge-creation1.md)
+- [11/13 Assignment 3: Data Science Methodology](https://github.com/ksouthall2022/DATA150/blob/master/assignment_3.md)
