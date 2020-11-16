@@ -26,3 +26,4 @@ I am very passionate about many things. I really want to join a choir and explor
 - [10/22 Type of Inquiry](https://github.com/ksouthall2022/DATA150/blob/master/type-of-inquiry.md)
 - [11/5 In-class Essay](https://github.com/ksouthall2022/DATA150/blob/master/knowledge-creation1.md)
 - [11/13 Assignment 3: Data Science Methodology](https://github.com/ksouthall2022/DATA150/blob/master/assignment_3.md)
+- [11/15 Final Presetation Abstract]
