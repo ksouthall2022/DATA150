@@ -12,3 +12,6 @@ This research provides with the possible ways in which childhood trauma can be p
 ## **Reference**
 
 TED. (2014). *Nadine Burke Harris: How childhood trauma affects health across a lifetime* [Video file]. Retrieved 15 November 2020 from https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime.
+
+
+Burke, N. J., Hellman, J. L., Scott, B. G., Weems, C. F., & Carrion, V. G. (2011). The impact of adverse childhood experiences on an urban pediatric population. Child abuse & neglect, 35(6), 408-413.
